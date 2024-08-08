@@ -1,8 +1,9 @@
-<script setup lang="ts">
-</script>
-
 <template>
     <div>
-        <h1>Projects</h1>
+        <TextHeader 
+            :accent="'Проекты'"
+            :title="'к которым я когда-либо приложил свои руки'"
+            :description="'Каждый проект имеет значение, потому что он даёт определённые знания.'"
+        />
     </div>
 </template>

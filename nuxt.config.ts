@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   css: ['~/assets/css/main.css'],
   components: {
     global: true,
-    dirs: ['~/components/widgets']
+    dirs: ['~/components/widgets/global']
   },
   postcss: {
     plugins: {
