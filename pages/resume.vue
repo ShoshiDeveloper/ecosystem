@@ -1,8 +1,10 @@
 <script setup lang="ts">
+import ResumeLayout from '~/components/layouts/ResumeLayout.vue';
+
 </script>
 
 <template>
     <div>
-        <h1>Resume</h1>
+        <ResumeLayout />
     </div>
 </template>

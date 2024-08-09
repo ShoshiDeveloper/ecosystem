@@ -10,7 +10,7 @@ const props = defineProps<Props>()
 </script>
 
 <template>
-    <div class="w-[680px]">
+    <div class="w-[680px] pb-4">
         <h1 class="text-st-h1 font-bold"><span class="text-st-content-brand">{{accent}}</span>, {{ title }}</h1>
         <p class="text-st-b1 text-st-content-secondary mt-[12px]">{{ description }}</p>
     </div>

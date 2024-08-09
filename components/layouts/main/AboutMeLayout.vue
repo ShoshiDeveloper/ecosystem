@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import AboutMeStatCard from './cards/AboutMeStatCard.vue';
+import AboutMeStatCard from '../../widgets/main/cards/AboutMeStatCard.vue';
+
 </script>
 
 <template>
@@ -17,4 +18,4 @@ import AboutMeStatCard from './cards/AboutMeStatCard.vue';
         <br><br>Кроме программирования, я изучаю японский язык и интересуюсь Японией. Надеюсь когда‑нибудь посетить эту страну.
         </p>
     </div>
-</template>
+</template>../../widgets/main/cards/AboutMeStatCard.vue
